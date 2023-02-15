@@ -1,0 +1,59 @@
+# All blobs are from "marlin-user 8.0.0 OPR1.170623.032 4397478 release-keys" and are pinned with sha1sum values
+
+# Audio
+
+# Bluetooth-AptX
+lib/libaptXHD_encoder.so|974c486e4ca03faa0713553d9dfe2995ac93e01c
+lib/libaptX_encoder.so|984739a0bc968e18f75ced205733fe3f51c2d4f0
+lib64/libaptXHD_encoder.so|90f47f10af28b3ead143200cb4370b847c513127
+lib64/libaptX_encoder.so|0cebad28afcf29f931bdc2d24fce2730dc882ecf
+
+# CNE
+etc/cne/Nexus/ATT/ATT_profiles.xml|19cd8ecb430c4e5116f7d7514b480db2ab0fa28d
+etc/cne/Nexus/ROW/ROW_profiles.xml|b2ebe504349fbbfb682cf7e621fead88c90c0e4a
+etc/cne/Nexus/VZW/VZW_profiles.xml|2d2af5606f3149b45c9e735d6d56f618593d54e4
+-priv-app/CNEService/CNEService.apk|9ed99d296b8d770a0e0d20fe06cc0f0697262917
+
+# Camera
+
+# DRM
+
+# Display-Hardware
+
+# Firmware
+etc/firmware/wcd9320/wcd9320_anc.bin|c74c2593dfc0ab63915201a0e3ad3721c2213dff
+etc/firmware/wcd9320/wcd9320_mad_audio.bin|b220625f6aba561a78a81880524b2adbab61056d
+etc/firmware/wcd9320/wcd9320_mbhc.bin|58f81b79b7828bcab00c9bd9190ea69f8ef6f7b4
+
+# GPS
+
+# GPS-Hardware
+
+# Graphics
+
+# HotwordEnrollment
+-priv-app/HotwordEnrollmentWCD9335/HotwordEnrollmentWCD9335.apk|ea1153c7c8db75bc8228fb47125cfd662d3dd88a
+
+# Listen
+
+# Media
+
+# Media-Hardware
+
+# Perf
+
+# Postprocessing
+
+# QMI
+
+# Radio
+etc/sysconfig/qti_whitelist.xml|7aa9819e937f8df33f2b594f36cfbadcc377f249
+-priv-app/qcrilmsgtunnel/qcrilmsgtunnel.apk|afa04d9deae65bbfe13317709ff940d1068476dc
+
+# Sensors
+
+# Time
+
+# WiFi
+
+# Misc

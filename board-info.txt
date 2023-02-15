@@ -1,0 +1,2 @@
+require version-baseband=2.0.2.C1.1-00021
+require version-trustzone=TZ.BF.4.0.1.C3-101130

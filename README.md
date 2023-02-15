@@ -1,0 +1,19 @@
+## marlin-user 8.0.0 OPR1.170623.032 4397478 release-keys
+- Manufacturer: google
+- Platform: 
+- Codename: marlin
+- Brand: google
+- Flavor: marlin-user
+- Release Version: 8.0.0
+- Kernel Version: 
+- Id: OPR1.170623.032
+- Incremental: 4397478
+- Tags: release-keys
+- CPU Abilist: arm64-v8a,armeabi-v7a,armeabi
+- A/B Device: true
+- Locale: en-US
+- Screen Density: undefined
+- Fingerprint: google/marlin/marlin:8.0.0/OPR1.170623.032/4397478:user/release-keys
+- OTA version: 
+- Branch: marlin-user-8.0.0-OPR1.170623.032-4397478-release-keys
+- Repo: google_marlin_dump

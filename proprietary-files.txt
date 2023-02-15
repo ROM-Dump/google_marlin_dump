@@ -1,0 +1,59 @@
+# All blobs from marlin-user 8.0.0 OPR1.170623.032 4397478 release-keys, unless pinned
+
+# Audio
+
+# Bluetooth-AptX
+lib/libaptXHD_encoder.so
+lib/libaptX_encoder.so
+lib64/libaptXHD_encoder.so
+lib64/libaptX_encoder.so
+
+# CNE
+etc/cne/Nexus/ATT/ATT_profiles.xml
+etc/cne/Nexus/ROW/ROW_profiles.xml
+etc/cne/Nexus/VZW/VZW_profiles.xml
+-priv-app/CNEService/CNEService.apk
+
+# Camera
+
+# DRM
+
+# Display-Hardware
+
+# Firmware
+etc/firmware/wcd9320/wcd9320_anc.bin
+etc/firmware/wcd9320/wcd9320_mad_audio.bin
+etc/firmware/wcd9320/wcd9320_mbhc.bin
+
+# GPS
+
+# GPS-Hardware
+
+# Graphics
+
+# HotwordEnrollment
+-priv-app/HotwordEnrollmentWCD9335/HotwordEnrollmentWCD9335.apk
+
+# Listen
+
+# Media
+
+# Media-Hardware
+
+# Perf
+
+# Postprocessing
+
+# QMI
+
+# Radio
+etc/sysconfig/qti_whitelist.xml
+-priv-app/qcrilmsgtunnel/qcrilmsgtunnel.apk
+
+# Sensors
+
+# Time
+
+# WiFi
+
+# Misc
